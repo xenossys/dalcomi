@@ -4,8 +4,14 @@
   "main": "index.js",
   "scripts": {
     "serve": "npx http-server out",
-    "deploy": "git add -f out && git checkout -b temp-gh-pages && git commit -m \"temp comit for deploy\" && git subtree split --prefix out -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages && git checkout main && git branch -D temp-gh-pages"
+    "deploy": "touch out/.nojekyll && git add -f out && git checkout -b temp-gh-pages && git commit -m \"temp comit for deploy\" && git subtree split --prefix out -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages && git checkout main && git branch -D temp-gh-pages"
   },
   "author": "daltodalto <dalssi.dalto@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "tailwindcss": "^3.4.3",
+    "tailwindcss-filters": "^3.0.0",
+    "tailwindcss-textshadow": "^2.1.3"
+  }
 }
