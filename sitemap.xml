@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-common-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-eco-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-restaurants-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-health-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-diet-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-foods-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dalcomi.kr/kr-tags-sitemap.xml</loc>
+    <lastmod>2024-05-27</lastmod>
+  </sitemap>
+</sitemapindex>

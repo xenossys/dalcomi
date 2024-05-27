@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+  <url>
+    <loc
+      >https://dalcomi.kr/kr/restaurants/삼성역-맛집-리스트-직작돌이들만-알고-있는-다섯-가지-맛도리-있는-집</loc
+    >
+    <lastmod>2024-05-27</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://dalcomi.kr/kr/restaurants/신논현역-맛집-리스트-후추포인트</loc>
+    <lastmod>2024-05-27</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc
+      >https://dalcomi.kr/kr/restaurants/황씨네-뭉티기-방문기-신선한-고기의-풍미를-만나다</loc
+    >
+    <lastmod>2024-05-27</lastmod>
+    <priority>1.00</priority>
+  </url>
+</urlset>
